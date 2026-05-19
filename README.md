@@ -6,15 +6,16 @@ Instrutor no **SENAC** e no **Colégio Exponencial** — apaixonado por transfor
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+> 💡 *Clique em um badge para acessar os materiais!*
 
-![Linux](https://img.shields.io/badge/Linux%20Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=flat&logo=html5&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel%20Avançado-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![Linux Debian](https://img.shields.io/badge/Linux%20Debian-A81D33?style=flat&logo=debian&logoColor=white)](https://github.com/dsosenac-dotcom/materiais-ti/tree/main/linux)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://github.com/dsosenac-dotcom/materiais-ti/tree/main/linux/scripts)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/dsosenac-dotcom/materiais-ti/tree/main/linux)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/dsosenac-dotcom/materiais-ti/tree/main/robotica/micropython)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/dsosenac-dotcom/materiais-ti/tree/main/jogos-educativos)
+[![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/dsosenac-dotcom/materiais-ti/tree/main/jogos-educativos)
+[![Excel Avançado](https://img.shields.io/badge/Excel%20Avançado-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://github.com/dsosenac-dotcom/materiais-ti/tree/main/excel)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/dsosenac-dotcom/materiais-ti)
 
 ---
 
@@ -44,10 +45,10 @@ Instrutor no **SENAC** e no **Colégio Exponencial** — apaixonado por transfor
 
 | Projeto | Descrição |
 |---|---|
-| 🎓 DSO Educação | Portal educacional com materiais de Informática, Excel e Robótica |
-| 🎮 Mini-games HTML | Jogos educativos interativos para sala de aula |
-| 📊 Excel Avançado | Apostilas e atividades do básico ao avançado |
-| 🐧 Linux na Prática | Guias e materiais para ensino de Linux em sala |
+| 🎓 [DSO Educação](https://dso-educacao.netlify.app) | Portal educacional com materiais de Informática, Excel e Robótica |
+| 📁 [Materiais de TI](https://github.com/dsosenac-dotcom/materiais-ti) | Repositório completo com materiais para download |
+| 🎮 [Jogos Educativos](https://github.com/dsosenac-dotcom/materiais-ti/tree/main/jogos-educativos) | Mini-games HTML para sala de aula |
+| 📊 [Excel Avançado](https://github.com/dsosenac-dotcom/materiais-ti/tree/main/excel) | Apostilas e atividades do básico ao avançado |
 
 ---
 
